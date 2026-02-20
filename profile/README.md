@@ -15,6 +15,7 @@
 | [Radio PCB](https://github.com/VIP-LES/leos-radio-pcb) | Dual 900/400 LoRa radio system, both at 1W |
 | [Power PCB](https://github.com/VIP-LES/leos-power-pcb) | LiPo buck boost regulation with dual 12V/5V power supplies |
 | [EFM PCB](https://github.com/VIP-LES/leos-efm-pcb) | Electric field mill sensor circuitry |
+| [Ground Station PCB](https://github.com/VIP-LES/leos-ground-station-pcb) | Raspberry Pi Zero motherboard with dual LoRa radios and power regulation |
 | [Purpleboard PCB](https://github.com/VIP-LES/leos-purpleboard-pcb) | External atmospheric sensors |
 | [Template Stack PCB](https://github.com/VIP-LES/template-stack-pcb) | Reference design for stack integration |
 | [KiCAD Library](https://github.com/VIP-LES/leos-kicad-library) | Shared component library |
